@@ -18,6 +18,7 @@ import java.util.List;
  */
 public class CarService {
 
+
     /**
      * Приходит список Car
      * Необходимо вернуть список строк из Condition
